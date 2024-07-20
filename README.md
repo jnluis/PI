@@ -1,42 +1,54 @@
-# Microsite
+# PI-Project in Informatics
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+## Academic Year: 2023/24
 
-### Installation
+### **Grade: 20** 
 
-```
-$ yarn
-```
+## Team ✨
 
-### Local Development
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
 
-```
-$ npm install
-$ npm start
-```
+<td align="center" width="50px;"></td>
+    <td align="center"><a href="https://github.com/P-Ramos16"><img src="https://avatars0.githubusercontent.com/P-Ramos16?v=3" width="150px;" alt="Ramos"/><br /><sub><b>Pedro Ramos</b><br><i>107348</i></sub></a><hr><b>Backend</b><br><a href="https://github.com/P-Ramos16" title="Code">💻</a> <a href="https://github.com/P-Ramos16" title="Tests">⚠️</a> <a href="https://github.com/P-Ramos16" title="Tools">🔨</a></td>
+    <td align="center"><a href="https://github.com/FiNeX96"><img src="https://avatars0.githubusercontent.com/FiNeX96?v=3" width="150px;" alt="Aguiar"/><br /><sub><b>Rodrigo Aguiar</b><br><i>108969</i></sub></a><hr><b>Backend</b><br><a href="https://github.com/FiNeX96" title="Code">💻</a><a href="https://github.com/FiNeX96" title="Tools">🔀</a><a href="https://github.com/FiNeX96" title="Tools">🔨</a></td>
+    <td align="center"><a href="https://github.com/Dan1m4D"><img src="https://avatars0.githubusercontent.com/Dan1m4D?v=3" width="150px;" alt="Madureira"/><br /><sub><b>Daniel Madureira</b><br><i>107603</i></sub></a><hr><b>Frontend</b><br><a href="https://github.com/Dan1m4D" title="Code">💻</a><a href="https://github.com/Dan1m4D" title="Design">🎨</a><a href="https://github.com/Dan1m4D" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://github.com/zegameiro"><img src="https://avatars0.githubusercontent.com/zegameiro?v=3" width="150px;" alt="Gameiro"/><br /><sub><b>José Gameiro</b><br><i>108840</i></sub></a><hr><b>Frontend</b><br><a href="https://github.com/zegameiro" title="Code">💻</a><a href="https://github.com/zegameiro" title="Blogposts">📝</a><a href="https://github.com/zegameiro" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://github.com/jnluis"><img src="https://avatars0.githubusercontent.com/jnluis?v=3" width="150px;" alt="John"/><br /><sub><b>João Luis</b><br><i>107403</i></sub></a><hr><b>Frontend</b><br><a href="https://github.com/jnluis" title="Code">💻</a><a href="https://github.com/jnluis" title="Tools">🎯</a><a href="https://github.com/jnluis" title="Tools">🔧</a></td>
+<td align="center" width="50px;"></td>
+</tr>
+</table>
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 
-### Build
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-```
-$ npm build
-```
+---
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Description
 
-### Deployment
+ - Our project was developed to enhance the managing of the dissertation season within the Department of Electronics, Telecommunications and Informatics (DETI), at University of Aveiro, at the invite of professor [@Diogo Gomes](https://github.com/dgomes);
 
-Using SSH:
+ - You can visit it [here](https://dissertacoes.av.it.pt), although only people from the university are able to use it directly;
 
-```
-$ USE_SSH=true yarn deploy
-```
+ - You can check our microsite for documentation and everything about this project [here](https://pi-dsd.github.io/microsite/). This website contains all presentations for the different Milestones during the semester, and also the Techical report and a demo for the developed platform.
 
-Not using SSH:
+---
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+## Architecture Diagram
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+<p align="center">
+    <img src="docs/diagrams/architectureDiagram.png">
+</p>
+
+---
+
+## Deployment Diagram
+
+<p align="center">
+    <img height="400px;" src="docs/diagrams/deploymentDiagram.png">
+</p>
