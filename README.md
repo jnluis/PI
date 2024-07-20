@@ -35,14 +35,14 @@
 
  - You can visit it [here](https://dissertacoes.av.it.pt), although only people from the university are able to use it directly;
 
- - You can check our microsite for documentation and everything about this project [here](https://pi-dsd.github.io/microsite/). This website contains all presentations for the different Milestones during the semester, and also the Techical report and a demo for the developed platform.
+ - You can check our microsite for documentation and everything about this project [here](https://pi-dsd.github.io/microsite/). This website contains all presentations for the different Milestones during the semester, the Techical report and also a demo for the developed platform.
 
 ---
 
 ## Architecture Diagram
 
 <p align="center">
-    <img src="docs/diagrams/architectureDiagram.png">
+    <img src="docs/Finalarchitecture.png">
 </p>
 
 ---
@@ -50,5 +50,5 @@
 ## Deployment Diagram
 
 <p align="center">
-    <img height="400px;" src="docs/diagrams/deploymentDiagram.png">
+    <img height="400px;" src="docs/FinaldeploymentDiagram.png">
 </p>
